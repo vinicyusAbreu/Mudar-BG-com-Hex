@@ -1,0 +1,44 @@
+body {
+    padding: 0;
+    margin: 0;
+    font-family: Tahoma;
+}
+
+.tela {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.tela h2 {
+    display: inline;
+}
+
+.tela span {
+    font-weight: bold;
+    font-size: 1.5rem;
+}
+
+.btn {
+    margin: auto;
+    margin-top: 1rem;
+    display: block;
+    text-align: center;
+    height: 38px;
+    width: 106px;
+    font-size: 1rem;
+    background-color: transparent;
+    border: 1px solid #000000a6;
+    outline: none;
+    cursor: pointer;
+    color: #ffffffe7;
+    text-shadow: 1px 1px 10px #000000;
+    font-weight: bold;
+}
+
+.container {
+    width: 350px;
+    text-align: center;
+}
