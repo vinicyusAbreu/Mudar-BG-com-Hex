@@ -1,6 +1,6 @@
 # 🎴 Mudar cor de fundo com hexadecimal
 
-Alterador de fundo de um página com javascript utilizando hexadecimal. Desafio do Frontend Mentor.
+Alterador de fundo de um página com javascript utilizando hexadecimal.
 
 ## ℹ Sobre o projeto 
 Projeto criado para mudança de cor de fundo, porem usando hexadecimal. Foi criado uma variavel onde gera um numero randomico e depois converto esse numero para hexadecimal e aplico no projeto. Assim que o botão for clicado, uma cor de fundo diferente aparecerá... Desenvolvido com HTML, CSS e Javascript.
